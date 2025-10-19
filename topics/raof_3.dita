@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="raof_3">
+    <title>RAOF 3</title>
+    <shortdesc/>
+    <body>
+        <p>Function (step) Persistent ID (unique ID within manufacturer domain): </p>
+        <p>Function (step) Life Cycle Status (enumeration of ): </p>
+        <p>Function (step) shares DTO Access Level:</p>
+        <p>Function (step) has type (enumeration of types): </p>
+        <p>Function (step) consist of what DTO: <ul id="ul_ozp_5dv_zgc">
+                <li>
+                    <p>interoperable data set object </p>
+                </li>
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul></p>
+        <p>Function (step) is a part of what Task (enumeration of tasks): <ul id="ul_dnd_hx5_zgc">
+                <li>
+                    <p/>
+                </li>
+                <li>
+                    <p/>
+                </li>
+            </ul></p>
+        <p>
+            <ul id="ul_ulf_4l5_zgc">
+                <li>
+                    <p/>
+                </li>
+            </ul>
+        </p>
+        <p>Function (step) may be accessed through what connector (enumeration of): </p>
+        <p>Function (step) may be accessed using what API method (reference pages): <ul
+                id="ul_ob1_nx5_zgc">
+                <li>
+                    <p><xref href="https://finshape.com/resources/" format="html" scope="external"
+                        /></p>
+                </li>
+                <li>
+                    <p><xref href="https://finshape.com/resources/" format="html" scope="external"
+                        /></p>
+                </li>
+            </ul></p>
+        <p>Function (step) is performed by user via which UI control:
+            <uicontrol>example</uicontrol></p>
+        <p>Function (step) is performed by source code fragment:
+            <codeblock id="codeblock_sbv_2qc_1hc">codeblock example </codeblock></p>
+    </body>
+</topic>

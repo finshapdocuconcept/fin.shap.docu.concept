@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Digital Banking Concept</title>
+    <topicref href="topics/digital_banking_main_solution.dita">
+        <topicref href="topics/db_modules.dita">
+            <topicref href="topics/infrastructure_module.dita">
+                <topicref href="topics/infra_components_list.dita"/>
+                <topicref href="topics/infra_component_1.dita"/>
+                <topicref href="topics/infra_component_2.dita"/>
+                <topicref href="topics/infrs_component_3.dita"/>
+            </topicref>
+            <topicref href="topics/connectors_module.dita">
+                <topicref href="topics/connectors_list.dita"/>
+                <topicref href="topics/dbos_input_connectors.dita"/>
+                <topicref href="topics/dbos_internal_connectors.dita"/>
+                <topicref href="topics/dbos_component_connectors.dita"/>
+                <topicref href="topics/dbos_output_connectors.dita"/>
+            </topicref>
+            <topicref href="topics/dbos_modul.dita">
+                <topicref href="topics/feature_component_1.dita"/>
+                <topicref href="topics/feature_component_2.dita"/>
+                <topicref href="topics/feature_component_3.dita"/>
+            </topicref>
+            <topicref href="topics/applications_module.dita">
+                <topicref href="topics/app_component_1.dita"/>
+                <topicref href="topics/app_component_2.dita"/>
+                <topicref href="topics/app_component_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/dbos.dita"/>
+        <topicref href="topics/banking_for_employees.dita"/>
+        <topicref href="topics/internet_banking_for_corporate_clients.dita"/>
+        <topicref href="topics/internet_banking_for_privat_clients.dita"/>
+    </topicref>
+    <topicref href="topics/work_spaces_to_handle_tasks.dita">
+        <topicref href="topics/bank_s_employee_app_ui.dita"/>
+        <topicref href="topics/bank_s_outsourcer_app_ui.dita"/>
+        <topicref href="topics/bank_s_corporate_client_app_ui.dita"/>
+        <topicref href="topics/bank_s_privat_client_app_ui.dita"/>
+        <topicref href="topics/user_spesific_ui_with_more_than_one_role.dita"/>
+        <topicref href="topics/role_specific_ui_section_or_page.dita">
+            <topicref href="topics/role_specific_ui_section_list.dita"/>
+            <topicref href="topics/bank_s_employee_roles_ui.dita">
+                <topicref href="topics/ber_ui_list.dita"/>
+                <topicref href="topics/ber_ui_1.dita"/>
+                <topicref href="topics/ber_ui_2.dita"/>
+                <topicref href="topics/ber_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/bank_s_outsourcer_roles_ui.dita">
+                <topicref href="topics/bor_ui_list.dita"/>
+                <topicref href="topics/bor_ui_1.dita"/>
+                <topicref href="topics/bor_ui_2.dita"/>
+                <topicref href="topics/bor_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/bank_s_corporate_client_roles_ui.dita">
+                <topicref href="topics/bcc_ui_list.dita"/>
+                <topicref href="topics/bcc_ui_1.dita"/>
+                <topicref href="topics/bcc_ui_2.dita"/>
+                <topicref href="topics/bcc_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/bank_s_privat_client_ui.dita">
+                <topicref href="topics/ppc_ui_list.dita"/>
+                <topicref href="topics/bpc_ui_1.dita"/>
+                <topicref href="topics/bpc_ui_2.dita"/>
+                <topicref href="topics/bpc_ui_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/task_spesific_ui_widget_or_page.dita">
+            <topicref href="topics/tasks_ui_list.dita"/>
+            <topicref href="topics/admin_tasks_ui.dita">
+                <topicref href="topics/admin_tasks_ui_list.dita"/>
+                <topicref href="topics/admin_tasks_ui_1.dita"/>
+                <topicref href="topics/admin_tasks_ui_2.dita"/>
+                <topicref href="topics/admin_tasks_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/security_tasks_ui.dita">
+                <topicref href="topics/security_tasks_ui_list.dita"/>
+                <topicref href="topics/security_tasks_ui_1.dita"/>
+                <topicref href="topics/security_tasks_ui_2.dita"/>
+                <topicref href="topics/security_tasks_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/business_tasks_ui.dita">
+                <topicref href="topics/business_tasks_ui_list.dita"/>
+                <topicref href="topics/business_tasks_ui_1.dita"/>
+                <topicref href="topics/business_tasks_ui_2.dita"/>
+                <topicref href="topics/business_tasks_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/comunication_tasks_ui.dita">
+                <topicref href="topics/comunication_tasks_ui_list.dita"/>
+                <topicref href="topics/comunication_tasks_ui_1.dita"/>
+                <topicref href="topics/comunication_tasks_ui_2.dita"/>
+                <topicref href="topics/comunication_tasks_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/report_and_analysys_tasks_ui.dita">
+                <topicref href="topics/report_and_analysys_tasks_ui_list.dita"/>
+                <topicref href="topics/report_and_analysys_tasks_ui_1.dita"/>
+                <topicref href="topics/report_and_analysys_tasks_ui_2.dita"/>
+                <topicref href="topics/report_and_analysys_tasks_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/management_tasks_ui.dita">
+                <topicref href="topics/management_tasks_ui_list.dita"/>
+                <topicref href="topics/management_tasks_ui_1.dita"/>
+                <topicref href="topics/management_tasks_ui_2.dita"/>
+                <topicref href="topics/management_tasks_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/dbos_maintenance_tasks_ui.dita">
+                <topicref href="topics/dbos_maintenance_tasks_ui_list.dita"/>
+                <topicref href="topics/dbos_maintenance_tasks_ui_1.dita"/>
+                <topicref href="topics/dbos_maintenance_tasks_ui_2.dita"/>
+                <topicref href="topics/dbos_maintenance_tasks_ui_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/function_or_step_specific_ui_controles.dita">
+            <topicref href="topics/functions_or_steps_ui_list.dita"/>
+            <topicref href="topics/admin_operation_functions_ui.dita">
+                <topicref href="topics/aof_ui_list.dita"/>
+                <topicref href="topics/aof_ui_1.dita"/>
+                <topicref href="topics/aof_ui_2.dita"/>
+                <topicref href="topics/aof_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/security_operation_functions_ui.dita">
+                <topicref href="topics/sof_ui_list.dita"/>
+                <topicref href="topics/sof_ui_1.dita"/>
+                <topicref href="topics/sof_ui_2.dita"/>
+                <topicref href="topics/sof_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/business_operation_functions_ui.dita">
+                <topicref href="topics/bof_ui_list.dita"/>
+                <topicref href="topics/bof_ui_1.dita"/>
+                <topicref href="topics/bof_ui_2.dita"/>
+                <topicref href="topics/bof_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/comunication_operation_functions_ui.dita">
+                <topicref href="topics/cof_ui_lisr.dita"/>
+                <topicref href="topics/cof_ui_1.dita"/>
+                <topicref href="topics/cof_ui_2.dita"/>
+                <topicref href="topics/cof_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/report_and_analysys_operation_functions_ui.dita">
+                <topicref href="topics/raof_ui_list.dita"/>
+                <topicref href="topics/raof_ui_1.dita"/>
+                <topicref href="topics/raof_ui_2.dita"/>
+                <topicref href="topics/raof_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/management_operation_functions_ui.dita">
+                <topicref href="topics/mof_ui_list.dita"/>
+                <topicref href="topics/mof_ui_1.dita"/>
+                <topicref href="topics/mof_ui_2.dita"/>
+                <topicref href="topics/mof_ui_3.dita"/>
+            </topicref>
+            <topicref href="topics/dbos_maintenance_operation_functions_ui.dita">
+                <topicref href="topics/dbos_mof_ui_list.dita"/>
+                <topicref href="topics/dbos_mof_ui_1.dita"/>
+                <topicref href="topics/dbos_mof_ui_2.dita"/>
+                <topicref href="topics/dbos_mof_ui_3.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="topics/roles.dita">
+        <topicref href="topics/bank_s_employee_roles.dita">
+            <topicref href="topics/ber_list.dita"/>
+            <topicref href="topics/ber_1.dita"/>
+            <topicref href="topics/ber_2.dita"/>
+            <topicref href="topics/ber_3.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_outsourcer_roles.dita">
+            <topicref href="topics/bor_list.dita"/>
+            <topicref href="topics/bor_1.dita"/>
+            <topicref href="topics/bor_2.dita"/>
+            <topicref href="topics/bor_3.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_corporate_client_roles.dita">
+            <topicref href="topics/bcc_list.dita"/>
+            <topicref href="topics/bcc_1.dita"/>
+            <topicref href="topics/bcc2.dita"/>
+            <topicref href="topics/bcc3.dita"/>
+        </topicref>
+        <topicref href="topics/bank_s_privat_client.dita">
+            <topicref href="topics/ppc_list.dita"/>
+            <topicref href="topics/bpc_1.dita"/>
+            <topicref href="topics/bpc_2.dita"/>
+            <topicref href="topics/bpc_3.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/rights_to_do_tasks.dita">
+        <topicref href="topics/right_1.dita"/>
+        <topicref href="topics/right_2.dita"/>
+        <topicref href="topics/right_3.dita"/>
+        <topicref href="topics/right_4.dita"/>
+    </topicref>
+    <topicref href="topics/tasks.dita">
+        <topicref href="topics/untitled10.dita"/>
+        <topicref href="topics/tasks_list.dita"/>
+        <topicref href="topics/admin_tasks.dita">
+            <topicref href="topics/admin_tasks_list.dita"/>
+            <topicref href="topics/admin_tasks_1.dita"/>
+            <topicref href="topics/admin_tasks_2.dita"/>
+            <topicref href="topics/admin_tasks_3.dita"/>
+        </topicref>
+        <topicref href="topics/security_tasks.dita">
+            <topicref href="topics/security_tasks_list.dita"/>
+            <topicref href="topics/security_tasks_1.dita"/>
+            <topicref href="topics/security_tasks_2.dita"/>
+            <topicref href="topics/security_tasks_3.dita"/>
+        </topicref>
+        <topicref href="topics/business_tasks.dita">
+            <topicref href="topics/business_tasks_list.dita"/>
+            <topicref href="topics/business_tasks_1.dita"/>
+            <topicref href="topics/business_tasks_2.dita"/>
+            <topicref href="topics/business_tasks_3.dita"/>
+        </topicref>
+        <topicref href="topics/comunication_tasks.dita">
+            <topicref href="topics/comunication_tasks_list.dita"/>
+            <topicref href="topics/comunication_tasks_1.dita"/>
+            <topicref href="topics/comunication_tasks_2.dita"/>
+            <topicref href="topics/comunication_tasks_3.dita"/>
+        </topicref>
+        <topicref href="topics/report_and_analysys_tasks.dita">
+            <topicref href="topics/report_and_analysys_tasks_list.dita"/>
+            <topicref href="topics/report_and_analysys_tasks_1.dita"/>
+            <topicref href="topics/report_and_analysys_tasks_2.dita"/>
+            <topicref href="topics/report_and_analysys_tasks_3.dita"/>
+        </topicref>
+        <topicref href="topics/management_tasks.dita">
+            <topicref href="topics/management_tasks_list.dita"/>
+            <topicref href="topics/management_tasks_1.dita"/>
+            <topicref href="topics/management_tasks_2.dita"/>
+            <topicref href="topics/management_tasks_3.dita"/>
+        </topicref>
+        <topicref href="topics/dbos_maintenance_tasks.dita">
+            <topicref href="topics/dbos_maintenance_tasks_list.dita"/>
+            <topicref href="topics/dbos_maintenance_tasks_1.dita"/>
+            <topicref href="topics/dbos_maintenance_tasks_2.dita"/>
+            <topicref href="topics/dbos_maintenance_tasks_3.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/functions_or_steps.dita">
+        <topicref href="topics/function_types.dita"/>
+        <topicref href="topics/functions_or_steps_list.dita"/>
+        <topicref href="topics/admin_operation_functions.dita">
+            <topicref href="topics/aof_list.dita"/>
+            <topicref href="topics/aof_1.dita"/>
+            <topicref href="topics/aof_2.dita"/>
+            <topicref href="topics/aof_3.dita"/>
+        </topicref>
+        <topicref href="topics/security_operation_functions.dita">
+            <topicref href="topics/sof_list.dita"/>
+            <topicref href="topics/sof_1.dita"/>
+            <topicref href="topics/sof_2.dita"/>
+            <topicref href="topics/sof_3.dita"/>
+        </topicref>
+        <topicref href="topics/business_operation_functions.dita">
+            <topicref href="topics/bof_list.dita"/>
+            <topicref href="topics/bof_1.dita"/>
+            <topicref href="topics/bof_2.dita"/>
+            <topicref href="topics/bof_3.dita"/>
+        </topicref>
+        <topicref href="topics/comunication_operation_functions.dita">
+            <topicref href="topics/cof_lisr.dita"/>
+            <topicref href="topics/cof_1.dita"/>
+            <topicref href="topics/cof_2.dita"/>
+            <topicref href="topics/cof_3.dita"/>
+        </topicref>
+        <topicref href="topics/report_and_analysys_operation_functions.dita">
+            <topicref href="topics/raof_list.dita"/>
+            <topicref href="topics/raof_1.dita"/>
+            <topicref href="topics/raof_2.dita"/>
+            <topicref href="topics/raof_3.dita"/>
+        </topicref>
+        <topicref href="topics/management_operation_functions.dita">
+            <topicref href="topics/mof_list.dita"/>
+            <topicref href="topics/mof_1.dita"/>
+            <topicref href="topics/mof_2.dita"/>
+            <topicref href="topics/mof_3.dita"/>
+        </topicref>
+        <topicref href="topics/dbos_maintenance_operation_functions.dita">
+            <topicref href="topics/dbos_mof_list.dita"/>
+            <topicref href="topics/dbos_mof_1.dita"/>
+            <topicref href="topics/dbos_mof_2.dita"/>
+            <topicref href="topics/dbos_mof_3.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_and_dto_access_levels.dita">
+        <topicref href="topics/low_access_level.dita"/>
+        <topicref href="topics/middle_access_level.dita"/>
+        <topicref href="topics/high_access_level.dita"/>
+    </topicref>
+    <topicref href="topics/dto_sources.dita">
+        <topicref href="topics/dto_types.dita"/>
+        <topicref href="topics/untitled2.dita"/>
+        <topicref href="topics/dto_for_admin_dbos_functions.dita">
+            <topicref href="topics/dto_admin_list.dita"/>
+            <topicref href="topics/dto_admin_1.dita"/>
+            <topicref href="topics/dto_admin_2.dita"/>
+            <topicref href="topics/dto_admin_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_security_functions.dita">
+            <topicref href="topics/dto_security_list.dita"/>
+            <topicref href="topics/dto_security_1.dita"/>
+            <topicref href="topics/dto_security_2.dita"/>
+            <topicref href="topics/dto_security_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_business_functions.dita">
+            <topicref href="topics/dto_business_list.dita"/>
+            <topicref href="topics/dto_business_1.dita"/>
+            <topicref href="topics/dto_business_2.dita"/>
+            <topicref href="topics/dto_business_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_communication_functions.dita">
+            <topicref href="topics/dto_communication_list.dita"/>
+            <topicref href="topics/dto_communication_1.dita"/>
+            <topicref href="topics/dto_communication_2.dita"/>
+            <topicref href="topics/dto_communication_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_report_and_analysys_functions.dita">
+            <topicref href="topics/dto_report_list.dita"/>
+            <topicref href="topics/dto_report_1.dita"/>
+            <topicref href="topics/dto_report_2.dita"/>
+            <topicref href="topics/dto_report_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_dbos_maintenance_functions.dita">
+            <topicref href="topics/dbo_maint_list.dita"/>
+            <topicref href="topics/dbo_maint_1.dita"/>
+            <topicref href="topics/dbo_maint_2.dita"/>
+            <topicref href="topics/dbo_maint_3.dita"/>
+        </topicref>
+        <topicref href="topics/dto_for_management_functions.dita">
+            <topicref href="topics/dto_management_list.dita"/>
+            <topicref href="topics/dto_management_1.dita"/>
+            <topicref href="topics/dto_management_2.dita"/>
+            <topicref href="topics/dto_management_3.dita"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_sources.dita">
+        <topicref href="topics/all_sources_data_list.dita"/>
+        <topicref href="topics/data_sources_list.dita"/>
+        <topicref href="topics/dbos_components.dita">
+            <topicref href="topics/dbos_components_data_list.dita"/>
+            <topicref href="topics/component_1.dita">
+                <topicref href="topics/component_1_data_list.dita"/>
+                <topicref href="topics/component_1_data_1.dita"/>
+                <topicref href="topics/component_1_data_2.dita"/>
+                <topicref href="topics/component_1_data_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/core_banking_systems.dita">
+            <topicref href="topics/cbs_data_list.dita"/>
+            <topicref href="topics/cbs_1.dita">
+                <topicref href="topics/cbs_1_data_list.dita"/>
+                <topicref href="topics/cbs_1_data_1.dita"/>
+                <topicref href="topics/cbs_1_data_2.dita"/>
+                <topicref href="topics/cbs_1_data_3.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/third_party_systems.dita">
+            <topicref href="topics/tps_data_list.dita"/>
+            <topicref href="topics/tps_1.dita">
+                <topicref href="topics/tps_1_data_list.dita"/>
+                <topicref href="topics/tps_1_data_1.dita"/>
+                <topicref href="topics/tps_1_data_2.dita"/>
+                <topicref href="topics/tps_1_data_3.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

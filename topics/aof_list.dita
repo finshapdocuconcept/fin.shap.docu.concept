@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="aof_list">
+    <title>AOF List</title>
+    <body>
+        <section id="section_xhp_gbd_1hc">
+            <p>
+                <table frame="all" rowsep="1" colsep="1" id="table_i3j_brc_1hc">
+                    <title>Admin Operation Functions</title>
+                    <tgroup cols="6">
+                        <colspec colnum="1" colname="newCol4"/>
+                        <colspec colnum="2" colname="newCol3"/>
+                        <colspec colnum="3" colname="newCol2"/>
+                        <colspec colnum="4" colname="newCol1"/>
+                        <colspec colnum="5" colname="c1"/>
+                        <colspec colnum="6" colname="c2"/>
+                        <thead>
+                            <row>
+                                <entry>Step PID</entry>
+                                <entry>Step Title</entry>
+                                <entry>Consists of DTO</entry>
+                                <entry>Is a part of Tasks</entry>
+                                <entry>DTO access level</entry>
+                                <entry>Rights to Handle </entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry/>
+                                <entry><xref href="aof_1.dita"/></entry>
+                                <entry><xref href="dto_admin_1.dita"/></entry>
+                                <entry/>
+                                <entry><xref href="middle_access_level.dita"/></entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry><xref href="aof_2.dita"/></entry>
+                                <entry><xref href="dto_admin_3.dita"/></entry>
+                                <entry/>
+                                <entry><xref href="middle_access_level.dita"/></entry>
+                                <entry/>
+                            </row>
+                            <row>
+                                <entry/>
+                                <entry><xref href="aof_3.dita"/></entry>
+                                <entry><xref href="dto_admin_2.dita"/></entry>
+                                <entry/>
+                                <entry><xref href="middle_access_level.dita"/></entry>
+                                <entry/>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </section>
+    </body>
+</topic>

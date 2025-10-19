@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitled10">
+    <title>Task types</title>
+    <body>
+        <p>
+            <dl id="dl_ckp_ffb_1hc">
+                <dlentry>
+                    <dt>Admin tasks</dt>
+                    <dd>serves to fulfil admin-related tasks within digital banking (DB) solution. </dd>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_axb_gfb_1hc">
+            <dlentry>
+                <dt>Security tasks</dt>
+                <dd>serves to fulfil security tasks within DB solution. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_jrl_gfb_1hc">
+            <dlentry>
+                <dt>Business tasks</dt>
+                <dd>serves to fulfil all tasks that have to do with revenue generation. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_ikx_gfb_1hc">
+            <dlentry>
+                <dt>Communication tasks</dt>
+                <dd>serves to fulfil two-way (chatbot, email etc.) and one-way (notifications)
+                    communication tasks. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_mlv_hfb_1hc">
+            <dlentry>
+                <dt>Report and Analysis tasks</dt>
+                <dd>serves to fulfil tasks that have to do with data analysis and presenting them in
+                    a form of different reports. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_vk2_3fb_1hc">
+            <dlentry>
+                <dt>Management tasks</dt>
+                <dd>serves to fulfil tasks that are within managers (C-level, managers, team leads
+                    etc.) agenda. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_p3t_3fb_1hc">
+            <dlentry>
+                <dt>DBOS Maintenance tasks</dt>
+                <dd>serves to fulfil tasks that have to do with software maintenance operations
+                    like: version updating, scaling, running backups, performing health checks. </dd>
+            </dlentry>
+        </dl>
+    </body>
+</topic>
