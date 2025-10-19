@@ -5,7 +5,7 @@
     <shortdesc>This section may be useful for front-end developers, business and technical
         analytics, pre-sales, sales and even marketing to some point. Data Transfer Object (DTO)
         usually use to simplify calling data and function that are needed to handle specific task
-        and run needed functions.</shortdesc>
+        and run needed functions</shortdesc>
     <body>
         <p>We consider for DTO some container for all data and functions that are needed to handle
             specific function as a step of a bigger business task. Business task in this context
