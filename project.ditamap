@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Digital Banking Concept</title>
-    <topicref href="topics/digital_banking_main_solution.dita">
+    <topicref href="topics/digital_banking_main_solution.dita" audience="Solution_Architect">
         <topicref href="topics/db_modules.dita">
             <topicref href="topics/infrastructure_module.dita">
                 <topicref href="topics/infra_components_list.dita"/>
@@ -33,7 +33,8 @@
         <topicref href="topics/internet_banking_for_corporate_clients.dita"/>
         <topicref href="topics/internet_banking_for_privat_clients.dita"/>
     </topicref>
-    <topicref href="topics/work_spaces_to_handle_tasks.dita">
+    <topicref href="topics/work_spaces_to_handle_tasks.dita"
+        audience="Solution_Architect Frontend_Developer">
         <topicref href="topics/bank_s_employee_app_ui.dita"/>
         <topicref href="topics/bank_s_outsourcer_app_ui.dita"/>
         <topicref href="topics/bank_s_corporate_client_app_ui.dita"/>
@@ -157,7 +158,7 @@
             </topicref>
         </topicref>
     </topicref>
-    <topicref href="topics/roles.dita">
+    <topicref href="topics/roles.dita" audience="Solution_Architect Frontend_Developer">
         <topicref href="topics/bank_s_employee_roles.dita">
             <topicref href="topics/ber_list.dita"/>
             <topicref href="topics/ber_1.dita"/>
@@ -189,13 +190,14 @@
             <topicref href="topics/solution_architect.dita"/>
         </topicref>
     </topicref>
-    <topicref href="topics/rights_to_do_tasks.dita">
+    <topicref href="topics/rights_to_do_tasks.dita" audience="Solution_Architect Frontend_Developer">
         <topicref href="topics/right_1.dita"/>
         <topicref href="topics/right_2.dita"/>
         <topicref href="topics/right_3.dita"/>
         <topicref href="topics/right_4.dita"/>
     </topicref>
-    <topicref href="topics/tasks.dita">
+    <topicref href="topics/tasks.dita"
+        audience="Solution_Architect Backend_Developer Frontend_Developer">
         <topicref href="topics/untitled10.dita"/>
         <topicref href="topics/tasks_list.dita"/>
         <topicref href="topics/admin_tasks.dita">
@@ -241,7 +243,8 @@
             <topicref href="topics/dbos_maintenance_tasks_3.dita"/>
         </topicref>
     </topicref>
-    <topicref href="topics/functions_or_steps.dita">
+    <topicref href="topics/functions_or_steps.dita"
+        audience="Solution_Architect Backend_Developer Frontend_Developer">
         <topicref href="topics/function_types.dita"/>
         <topicref href="topics/functions_or_steps_list.dita"/>
         <topicref href="topics/admin_operation_functions.dita">
@@ -287,12 +290,14 @@
             <topicref href="topics/dbos_mof_3.dita"/>
         </topicref>
     </topicref>
-    <topicref href="topics/data_and_dto_access_levels.dita">
+    <topicref href="topics/data_and_dto_access_levels.dita"
+        audience="Solution_Architect API_Developer Backend_Developer Frontend_Developer">
         <topicref href="topics/low_access_level.dita"/>
         <topicref href="topics/middle_access_level.dita"/>
         <topicref href="topics/high_access_level.dita"/>
     </topicref>
-    <topicref href="topics/dto_sources.dita">
+    <topicref href="topics/dto_sources.dita"
+        audience="Solution_Architect API_Developer Backend_Developer Frontend_Developer">
         <topicref href="topics/dto_types.dita"/>
         <topicref href="topics/untitled2.dita"/>
         <topicref href="topics/dto_for_admin_dbos_functions.dita">
@@ -338,7 +343,7 @@
             <topicref href="topics/dto_management_3.dita"/>
         </topicref>
     </topicref>
-    <topicref href="topics/data_sources.dita">
+    <topicref href="topics/data_sources.dita" audience="Solution_Architect API_Developer">
         <topicref href="topics/all_sources_data_list.dita"/>
         <topicref href="topics/data_sources_list.dita"/>
         <topicref href="topics/dbos_components.dita">
