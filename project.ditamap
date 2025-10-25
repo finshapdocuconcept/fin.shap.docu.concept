@@ -182,6 +182,12 @@
             <topicref href="topics/bpc_2.dita"/>
             <topicref href="topics/bpc_3.dita"/>
         </topicref>
+        <topicref href="topics/enterprise_roles.dita">
+            <topicref href="topics/api_developer.dita"/>
+            <topicref href="topics/backend_developer.dita"/>
+            <topicref href="topics/frontend_developer.dita"/>
+            <topicref href="topics/solution_architect.dita"/>
+        </topicref>
     </topicref>
     <topicref href="topics/rights_to_do_tasks.dita">
         <topicref href="topics/right_1.dita"/>
