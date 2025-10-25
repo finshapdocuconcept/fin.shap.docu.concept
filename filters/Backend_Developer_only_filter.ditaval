@@ -3,5 +3,6 @@
     <prop action="exclude" att="audience" val="Solution_Architect"/>
     <prop action="exclude" att="audience" val="API_Developer"/>
     <prop action="exclude" att="audience" val="Frontend_Developer"/>
+    <prop action="include" att="audience" val="Backend_Developer"/>
     <prop action="flag" att="audience" val="general"/>
 </val>
