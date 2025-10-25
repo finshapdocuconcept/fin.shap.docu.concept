@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE subjectScheme PUBLIC "-//OASIS//DTD DITA Subject Scheme Map//EN" "subjectScheme.dtd"> 
+<subjectScheme>
+    <subjectHead>
+        <subjectHeadMeta>
+            <navtitle>
+                <!-- Enter a description of the subject scheme. -->
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance>
+        <subjectdef keys="enterpriseRolesKey">
+            <!-- A tree of related values -->
+            <subjectdef keys="Solution_Architect"/>
+            <subjectdef keys="API_Developer"/>
+            <subjectdef keys="Backend_Developer"/>
+            <subjectdef keys="Frontend_Developer"/>
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef>
+        <!-- Bind an attribute to a tree of related values -->
+        <attributedef name="audience"/>
+        <subjectdef keyref="enterpriseRolesKey"/>
+    </enumerationdef>
+</subjectScheme>
