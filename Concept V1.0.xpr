@@ -14473,7 +14473,7 @@ self::*[contains(@class," map/reltable ")]][1]
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DITA Map WebHelp Responsive - Frontend Developer</String>
+                                        <String>DITA Map WebHelp Responsive - Solution Architect</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -14556,7 +14556,13 @@ self::*[contains(@class," map/reltable ")]][1]
                                     </publishingTemplate>
                                 </field>
                                 <field name="oxygenFeedbackPO">
-                                    <null/>
+                                    <oxygenFeedback>
+                                        <field name="feedbackFragment">
+                                            <String>&lt;div xmlns="http://www.w3.org/1999/xhtml" id="oxygen-feedback-frame-container">
+    &lt;script id="feedback-init" defer="defer" src="https://feedback.oxygenxml.com/app/init/init.js?deploymentToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJkZXBsb3ltZW50SWQiOjEwMjd9.Z4Y8nzMpTVkxEJbscl7jIV43Yl7Cuz3cfui2wpg-L265NWZu7FRCRDdB5nZTo6J3iwf1_lwwXguClWYD2D7q6Q">&lt;!-- -->&lt;/script>
+&lt;/div></String>
+                                        </field>
+                                    </oxygenFeedback>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -14832,7 +14838,13 @@ self::*[contains(@class," map/reltable ")]][1]
                                     </publishingTemplate>
                                 </field>
                                 <field name="oxygenFeedbackPO">
-                                    <null/>
+                                    <oxygenFeedback>
+                                        <field name="feedbackFragment">
+                                            <String>&lt;div xmlns="http://www.w3.org/1999/xhtml" id="oxygen-feedback-frame-container">
+    &lt;script id="feedback-init" defer="defer" src="https://feedback.oxygenxml.com/app/init/init.js?deploymentToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJkZXBsb3ltZW50SWQiOjEwMjZ9.dtjRaVFb1ebmbHsfirwNiKYIlUePFi6P5OcVTAOWWJKfhL7xbbFl0nTQrpGM-8PVqM7hotG2xJPTHjbAAZVWaA">&lt;!-- -->&lt;/script>
+&lt;/div></String>
+                                        </field>
+                                    </oxygenFeedback>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -15108,7 +15120,13 @@ self::*[contains(@class," map/reltable ")]][1]
                                     </publishingTemplate>
                                 </field>
                                 <field name="oxygenFeedbackPO">
-                                    <null/>
+                                    <oxygenFeedback>
+                                        <field name="feedbackFragment">
+                                            <String>&lt;div xmlns="http://www.w3.org/1999/xhtml" id="oxygen-feedback-frame-container">
+    &lt;script id="feedback-init" defer="defer" src="https://feedback.oxygenxml.com/app/init/init.js?deploymentToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJkZXBsb3ltZW50SWQiOjEwMjV9.zazi3JgNAUOaOMayQ-A4x3FSjteUTM_f6wJu7Uko7IzovZqjkyM0KpmiQ2858TrQEDdsoGL4bv-QmDFUipO9ZA">&lt;!-- -->&lt;/script>
+&lt;/div></String>
+                                        </field>
+                                    </oxygenFeedback>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
@@ -15666,7 +15684,13 @@ self::*[contains(@class," map/reltable ")]][1]
                                     </publishingTemplate>
                                 </field>
                                 <field name="oxygenFeedbackPO">
-                                    <null/>
+                                    <oxygenFeedback>
+                                        <field name="feedbackFragment">
+                                            <String>&lt;div xmlns="http://www.w3.org/1999/xhtml" id="oxygen-feedback-frame-container">
+    &lt;script id="feedback-init" defer="defer" src="https://feedback.oxygenxml.com/app/init/init.js?deploymentToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJkZXBsb3ltZW50SWQiOjEwMjh9.N1YdUedQA-KSYosB-lhkgojkHsv7Ins0E-rKXhUTSuiNWegTU0dHMgwA04dVkN57k51dU2LvqSuAfNZm8sFUnw">&lt;!-- -->&lt;/script>
+&lt;/div></String>
+                                        </field>
+                                    </oxygenFeedback>
                                 </field>
                                 <field name="additionalAntArgs">
                                     <String></String>
