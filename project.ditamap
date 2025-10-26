@@ -5,6 +5,7 @@
     <topicref href="topics/digital_banking_main_solution.dita" audience="Solution_Architect">
         <topicref href="topics/db_modules.dita">
             <topicref href="topics/infrastructure_module.dita">
+                <topicref href="project.ditamap" format="ditamap"/>
                 <topicref href="topics/infra_components_list.dita"/>
                 <topicref href="topics/infra_component_1.dita"/>
                 <topicref href="topics/infra_component_2.dita"/>

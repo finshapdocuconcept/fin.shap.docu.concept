@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\digital_banking_concept\fin.shap.docu.concept\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/digital_banking_concept/fin.shap.docu.concept/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="sof_3" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="topic:1;3:19" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="title:1;4:12">SOF 3</title>
+    <body class="- topic/body " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:1;6:12">Function (step) Persistent ID (unique ID within manufacturer domain): </p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:2;7:12">Function (step) Life Cycle Status (enumeration of ): </p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:3;8:12">Function (step) shares DTO Access Level:</p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:4;9:12">Function (step) has type (enumeration of types): </p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:5;10:12">Function (step) consist of what DTO: <ul id="ul_ozp_5dv_zgc" class="- topic/ul " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="ul:1;10:73">
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:1;11:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:6;12:24">interoperable data set object </p>
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:2;14:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:7;15:25"/>
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:3;17:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:8;18:25"/>
+                </li>
+            </ul></p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:9;21:12">Function (step) is a part of what Task (enumeration of tasks): <ul id="ul_dnd_hx5_zgc" class="- topic/ul " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="ul:2;21:99">
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:4;22:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:10;23:25"/>
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:5;25:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:11;26:25"/>
+                </li>
+            </ul></p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:12;29:12">
+            <ul id="ul_ulf_4l5_zgc" class="- topic/ul " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="ul:3;30:37">
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:6;31:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:13;32:25"/>
+                </li>
+            </ul>
+        </p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:14;36:12">Function (step) may be accessed through what connector (enumeration of): </p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:15;37:12">Function (step) may be accessed using what API method (reference pages): <ul id="ul_ob1_nx5_zgc" class="- topic/ul " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="ul:4;38:37">
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:7;39:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:16;40:24"><xref href="https://finshape.com/resources/" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="xref:1;41:27"/></p>
+                </li>
+                <li class="- topic/li " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="li:8;43:21">
+                    <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:17;44:24"><xref href="https://finshape.com/resources/" format="html" scope="external" class="- topic/xref " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="xref:2;45:27"/></p>
+                </li>
+            </ul></p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:18;48:12">Function (step) is performed by user via which UI control:
+            <uicontrol class="+ topic/ph ui-d/uicontrol " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="uicontrol:1;49:24">example</uicontrol></p>
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="p:19;50:12">Function (step) is performed by source code fragment:
+            <codeblock id="codeblock_mpd_npc_1hc" xml:space="preserve" class="+ topic/pre pr-d/codeblock " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/sof_3.dita" xtrc="codeblock:1;51:51">codeblock example</codeblock></p>
+    </body>
+</topic>

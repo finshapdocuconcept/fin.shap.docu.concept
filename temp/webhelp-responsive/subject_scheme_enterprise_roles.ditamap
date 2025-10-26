@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\digital_banking_concept\fin.shap.docu.concept\temp\webhelp-responsive?><?workdir-uri file:/C:/digital_banking_concept/fin.shap.docu.concept/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Subject Scheme Map//EN?><?doctype-system subjectScheme.dtd?><subjectScheme xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map subjectScheme/subjectScheme " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (map subjectScheme) a(props deliveryTarget) (topic hazard-d) (topic hi-d) (topic ut-d)" processing-role="resource-only" specializations="@props/deliveryTarget" toc="no" xtrc="subjectScheme:1;3:16" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+    <subjectHead class="- map/topicref subjectScheme/subjectHead " linking="normal" xtrc="subjectHead:1;4:18" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+        <subjectHeadMeta class="- map/topicmeta subjectScheme/subjectHeadMeta " xtrc="subjectHeadMeta:1;5:26" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+            <navtitle class="- topic/navtitle " xtrc="navtitle:1;6:23" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+                
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead>
+    <hasInstance class="- map/topicref subjectScheme/hasInstance " xtrc="hasInstance:1;11:18" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="enterpriseRolesKey" xtrc="subjectdef:1;12:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+            
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Solution_Architect" xtrc="subjectdef:2;14:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="API_Developer" xtrc="subjectdef:3;15:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Backend_Developer" xtrc="subjectdef:4;16:51" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Frontend_Developer" xtrc="subjectdef:5;17:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+        </subjectdef>
+    </hasInstance>
+    <enumerationdef class="- map/topicref subjectScheme/enumerationdef " xtrc="enumerationdef:1;20:21" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+        
+        <attributedef class="- topic/data subjectScheme/attributedef " name="audience" translate="no" xtrc="attributedef:1;22:40" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="enterpriseRolesKey" xtrc="subjectdef:6;23:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+    </enumerationdef>
+</subjectScheme>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\digital_banking_concept\fin.shap.docu.concept\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/digital_banking_concept/fin.shap.docu.concept/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Topic//EN?><?doctype-system topic.dtd?><topic xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="untitled10" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="topic:1;3:24" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="title:1;4:12">Task types</title>
+    <body class="- topic/body " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="body:1;5:11">
+        <p class="- topic/p " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="p:1;6:12">
+            <dl id="dl_ckp_ffb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:1;7:37">
+                <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:1;8:26">
+                    <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:1;9:25">Admin tasks</dt>
+                    <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:1;10:25">serves to fulfil admin-related tasks within digital banking (DB) solution. </dd>
+                </dlentry>
+            </dl>
+        </p>
+        <dl id="dl_axb_gfb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:2;14:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:2;15:22">
+                <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:2;16:21">Security tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:2;17:21">serves to fulfil security tasks within DB solution. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_jrl_gfb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:3;20:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:3;21:22">
+                <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:3;22:21">Business tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:3;23:21">serves to fulfil all tasks that have to do with revenue generation. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_ikx_gfb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:4;26:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:4;27:22">
+                <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:4;28:21">Communication tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:4;29:21">serves to fulfil two-way (chatbot, email etc.) and one-way (notifications)
+                    communication tasks. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_mlv_hfb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:5;33:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:5;34:22">
+                <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:5;35:21">Report and Analysis tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:5;36:21">serves to fulfil tasks that have to do with data analysis and presenting them in
+                    a form of different reports. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_vk2_3fb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:6;40:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:6;41:22">
+                <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:6;42:21">Management tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:6;43:21">serves to fulfil tasks that are within managers (C-level, managers, team leads
+                    etc.) agenda. </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_p3t_3fb_1hc" class="- topic/dl " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dl:7;47:33">
+            <dlentry class="- topic/dlentry " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dlentry:7;48:22">
+                <dt class="- topic/dt " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dt:7;49:21">DBOS Maintenance tasks</dt>
+                <dd class="- topic/dd " xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/topics/untitled10.dita" xtrc="dd:7;50:21">serves to fulfil tasks that have to do with software maintenance operations
+                    like: version updating, scaling, running backups, performing health checks. </dd>
+            </dlentry>
+        </dl>
+    </body>
+</topic>

@@ -14473,7 +14473,7 @@ self::*[contains(@class," map/reltable ")]][1]
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DITA Map WebHelp Responsive - Solution Architect</String>
+                                        <String>DITA Map WebHelp Responsive - Frontend Developer</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -15070,7 +15070,7 @@ self::*[contains(@class," map/reltable ")]][1]
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>${pd}/out/webhelp_Frontend_Developer_role</String>
+                                    <String>${pd}/out/webhelp_frontend_developer</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>${cfd}/temp/webhelp-responsive</String>
@@ -15090,7 +15090,7 @@ self::*[contains(@class," map/reltable ")]][1]
                                             <null/>
                                         </field>
                                         <field name="ditavalFilePath">
-                                            <String>file:/C:/AI%20job/Finshape_documentation_concept/Finshape%20Documentation%20Concept/filters/Frontend_Developer_only_filter.ditaval</String>
+                                            <String>file:/C:/digital_banking_concept/fin.shap.docu.concept/filters/Frontend_Developer_only_filter.ditaval</String>
                                         </field>
                                         <field name="simpleFiltersList">
                                             <list/>
@@ -15363,16 +15363,16 @@ self::*[contains(@class," map/reltable ")]][1]
                                 <field name="filters">
                                     <ditavalFilters>
                                         <field name="useDitavalFilePath">
-                                            <Boolean>false</Boolean>
+                                            <Boolean>true</Boolean>
                                         </field>
                                         <field name="useAppliedConditionSet">
-                                            <Boolean>true</Boolean>
+                                            <Boolean>false</Boolean>
                                         </field>
                                         <field name="appliedConditionSet">
                                             <null/>
                                         </field>
                                         <field name="ditavalFilePath">
-                                            <null/>
+                                            <String>file:/C:/AI%20job/Finshape_documentation_concept/Finshape%20Documentation%20Concept/filters/Frontend_Developer_only_filter.ditaval</String>
                                         </field>
                                         <field name="simpleFiltersList">
                                             <list/>

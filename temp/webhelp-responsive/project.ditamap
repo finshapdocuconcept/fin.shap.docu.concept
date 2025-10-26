@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\digital_banking_concept\fin.shap.docu.concept\temp\webhelp-responsive?><?workdir-uri file:/C:/digital_banking_concept/fin.shap.docu.concept/temp/webhelp-responsive/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">Digital Banking Concept</title>
+    
+    <topicref href="topics/work_spaces_to_handle_tasks.dita" class="- map/topicref " audience="Solution_Architect Frontend_Developer" xtrc="topicref:27;38:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/bank_s_employee_app_ui.dita" class="- map/topicref " xtrc="topicref:28;39:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/bank_s_outsourcer_app_ui.dita" class="- map/topicref " xtrc="topicref:29;40:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/bank_s_corporate_client_app_ui.dita" class="- map/topicref " xtrc="topicref:30;41:70" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/bank_s_privat_client_app_ui.dita" class="- map/topicref " xtrc="topicref:31;42:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/user_spesific_ui_with_more_than_one_role.dita" class="- map/topicref " xtrc="topicref:32;43:80" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/role_specific_ui_section_or_page.dita" class="- map/topicref " xtrc="topicref:33;44:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/role_specific_ui_section_list.dita" class="- map/topicref " xtrc="topicref:34;45:73" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bank_s_employee_roles_ui.dita" class="- map/topicref " xtrc="topicref:35;46:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/ber_ui_list.dita" class="- map/topicref " xtrc="topicref:36;47:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/ber_ui_1.dita" class="- map/topicref " xtrc="topicref:37;48:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/ber_ui_2.dita" class="- map/topicref " xtrc="topicref:38;49:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/ber_ui_3.dita" class="- map/topicref " xtrc="topicref:39;50:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/bank_s_outsourcer_roles_ui.dita" class="- map/topicref " xtrc="topicref:40;52:69" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/bor_ui_list.dita" class="- map/topicref " xtrc="topicref:41;53:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bor_ui_1.dita" class="- map/topicref " xtrc="topicref:42;54:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bor_ui_2.dita" class="- map/topicref " xtrc="topicref:43;55:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bor_ui_3.dita" class="- map/topicref " xtrc="topicref:44;56:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/bank_s_corporate_client_roles_ui.dita" class="- map/topicref " xtrc="topicref:45;58:75" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/bcc_ui_list.dita" class="- map/topicref " xtrc="topicref:46;59:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bcc_ui_1.dita" class="- map/topicref " xtrc="topicref:47;60:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bcc_ui_2.dita" class="- map/topicref " xtrc="topicref:48;61:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bcc_ui_3.dita" class="- map/topicref " xtrc="topicref:49;62:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/bank_s_privat_client_ui.dita" class="- map/topicref " xtrc="topicref:50;64:66" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/ppc_ui_list.dita" class="- map/topicref " xtrc="topicref:51;65:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bpc_ui_1.dita" class="- map/topicref " xtrc="topicref:52;66:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bpc_ui_2.dita" class="- map/topicref " xtrc="topicref:53;67:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bpc_ui_3.dita" class="- map/topicref " xtrc="topicref:54;68:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/task_spesific_ui_widget_or_page.dita" class="- map/topicref " xtrc="topicref:55;71:70" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:56;72:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/admin_tasks_ui.dita" class="- map/topicref " xtrc="topicref:57;73:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/admin_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:58;74:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/admin_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:59;75:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/admin_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:60;76:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/admin_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:61;77:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/security_tasks_ui.dita" class="- map/topicref " xtrc="topicref:62;79:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/security_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:63;80:70" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/security_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:64;81:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/security_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:65;82:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/security_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:66;83:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/business_tasks_ui.dita" class="- map/topicref " xtrc="topicref:67;85:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/business_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:68;86:70" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/business_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:69;87:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/business_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:70;88:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/business_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:71;89:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/comunication_tasks_ui.dita" class="- map/topicref " xtrc="topicref:72;91:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/comunication_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:73;92:74" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/comunication_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:74;93:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/comunication_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:75;94:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/comunication_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:76;95:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/report_and_analysys_tasks_ui.dita" class="- map/topicref " xtrc="topicref:77;97:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/report_and_analysys_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:78;98:81" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/report_and_analysys_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:79;99:78" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/report_and_analysys_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:80;100:78" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/report_and_analysys_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:81;101:78" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/management_tasks_ui.dita" class="- map/topicref " xtrc="topicref:82;103:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/management_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:83;104:72" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/management_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:84;105:69" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/management_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:85;106:69" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/management_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:86;107:69" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/dbos_maintenance_tasks_ui.dita" class="- map/topicref " xtrc="topicref:87;109:68" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/dbos_maintenance_tasks_ui_list.dita" class="- map/topicref " xtrc="topicref:88;110:78" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/dbos_maintenance_tasks_ui_1.dita" class="- map/topicref " xtrc="topicref:89;111:75" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/dbos_maintenance_tasks_ui_2.dita" class="- map/topicref " xtrc="topicref:90;112:75" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/dbos_maintenance_tasks_ui_3.dita" class="- map/topicref " xtrc="topicref:91;113:75" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+        </topicref>
+        <topicref href="topics/function_or_step_specific_ui_controles.dita" class="- map/topicref " xtrc="topicref:92;116:77" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/functions_or_steps_ui_list.dita" class="- map/topicref " xtrc="topicref:93;117:70" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/admin_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:94;118:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/aof_ui_list.dita" class="- map/topicref " xtrc="topicref:95;119:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/aof_ui_1.dita" class="- map/topicref " xtrc="topicref:96;120:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/aof_ui_2.dita" class="- map/topicref " xtrc="topicref:97;121:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/aof_ui_3.dita" class="- map/topicref " xtrc="topicref:98;122:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/security_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:99;124:74" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/sof_ui_list.dita" class="- map/topicref " xtrc="topicref:100;125:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/sof_ui_1.dita" class="- map/topicref " xtrc="topicref:101;126:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/sof_ui_2.dita" class="- map/topicref " xtrc="topicref:102;127:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/sof_ui_3.dita" class="- map/topicref " xtrc="topicref:103;128:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/business_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:104;130:74" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/bof_ui_list.dita" class="- map/topicref " xtrc="topicref:105;131:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bof_ui_1.dita" class="- map/topicref " xtrc="topicref:106;132:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bof_ui_2.dita" class="- map/topicref " xtrc="topicref:107;133:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/bof_ui_3.dita" class="- map/topicref " xtrc="topicref:108;134:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/comunication_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:109;136:78" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/cof_ui_lisr.dita" class="- map/topicref " xtrc="topicref:110;137:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/cof_ui_1.dita" class="- map/topicref " xtrc="topicref:111;138:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/cof_ui_2.dita" class="- map/topicref " xtrc="topicref:112;139:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/cof_ui_3.dita" class="- map/topicref " xtrc="topicref:113;140:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/report_and_analysys_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:114;142:85" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/raof_ui_list.dita" class="- map/topicref " xtrc="topicref:115;143:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/raof_ui_1.dita" class="- map/topicref " xtrc="topicref:116;144:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/raof_ui_2.dita" class="- map/topicref " xtrc="topicref:117;145:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/raof_ui_3.dita" class="- map/topicref " xtrc="topicref:118;146:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/management_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:119;148:76" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/mof_ui_list.dita" class="- map/topicref " xtrc="topicref:120;149:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/mof_ui_1.dita" class="- map/topicref " xtrc="topicref:121;150:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/mof_ui_2.dita" class="- map/topicref " xtrc="topicref:122;151:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/mof_ui_3.dita" class="- map/topicref " xtrc="topicref:123;152:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+            <topicref href="topics/dbos_maintenance_operation_functions_ui.dita" class="- map/topicref " xtrc="topicref:124;154:82" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+                <topicref href="topics/dbos_mof_ui_list.dita" class="- map/topicref " xtrc="topicref:125;155:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/dbos_mof_ui_1.dita" class="- map/topicref " xtrc="topicref:126;156:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/dbos_mof_ui_2.dita" class="- map/topicref " xtrc="topicref:127;157:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+                <topicref href="topics/dbos_mof_ui_3.dita" class="- map/topicref " xtrc="topicref:128;158:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="topics/roles.dita" class="- map/topicref " audience="Solution_Architect Frontend_Developer" xtrc="topicref:129;162:89" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/bank_s_employee_roles.dita" class="- map/topicref " xtrc="topicref:130;163:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/ber_list.dita" class="- map/topicref " xtrc="topicref:131;164:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/ber_1.dita" class="- map/topicref " xtrc="topicref:132;165:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/ber_2.dita" class="- map/topicref " xtrc="topicref:133;166:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/ber_3.dita" class="- map/topicref " xtrc="topicref:134;167:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/bank_s_outsourcer_roles.dita" class="- map/topicref " xtrc="topicref:135;169:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/bor_list.dita" class="- map/topicref " xtrc="topicref:136;170:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bor_1.dita" class="- map/topicref " xtrc="topicref:137;171:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bor_2.dita" class="- map/topicref " xtrc="topicref:138;172:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bor_3.dita" class="- map/topicref " xtrc="topicref:139;173:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/bank_s_corporate_client_roles.dita" class="- map/topicref " xtrc="topicref:140;175:68" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/bcc_list.dita" class="- map/topicref " xtrc="topicref:141;176:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bcc_1.dita" class="- map/topicref " xtrc="topicref:142;177:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bcc2.dita" class="- map/topicref " xtrc="topicref:143;178:48" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bcc3.dita" class="- map/topicref " xtrc="topicref:144;179:48" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/bank_s_privat_client.dita" class="- map/topicref " xtrc="topicref:145;181:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/ppc_list.dita" class="- map/topicref " xtrc="topicref:146;182:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bpc_1.dita" class="- map/topicref " xtrc="topicref:147;183:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bpc_2.dita" class="- map/topicref " xtrc="topicref:148;184:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bpc_3.dita" class="- map/topicref " xtrc="topicref:149;185:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/enterprise_roles.dita" class="- map/topicref " xtrc="topicref:150;187:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/api_developer.dita" class="- map/topicref " xtrc="topicref:151;188:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/backend_developer.dita" class="- map/topicref " xtrc="topicref:152;189:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/frontend_developer.dita" class="- map/topicref " xtrc="topicref:153;190:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/solution_architect.dita" class="- map/topicref " xtrc="topicref:154;191:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/rights_to_do_tasks.dita" class="- map/topicref " audience="Solution_Architect Frontend_Developer" xtrc="topicref:155;194:102" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/right_1.dita" class="- map/topicref " xtrc="topicref:156;195:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/right_2.dita" class="- map/topicref " xtrc="topicref:157;196:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/right_3.dita" class="- map/topicref " xtrc="topicref:158;197:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/right_4.dita" class="- map/topicref " xtrc="topicref:159;198:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+    </topicref>
+    <topicref href="topics/tasks.dita" class="- map/topicref " audience="Solution_Architect Backend_Developer Frontend_Developer" xtrc="topicref:160;201:76" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/untitled10.dita" class="- map/topicref " xtrc="topicref:161;202:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/tasks_list.dita" class="- map/topicref " xtrc="topicref:162;203:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/admin_tasks.dita" class="- map/topicref " xtrc="topicref:163;204:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/admin_tasks_list.dita" class="- map/topicref " xtrc="topicref:164;205:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/admin_tasks_1.dita" class="- map/topicref " xtrc="topicref:165;206:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/admin_tasks_2.dita" class="- map/topicref " xtrc="topicref:166;207:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/admin_tasks_3.dita" class="- map/topicref " xtrc="topicref:167;208:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/security_tasks.dita" class="- map/topicref " xtrc="topicref:168;210:53" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/security_tasks_list.dita" class="- map/topicref " xtrc="topicref:169;211:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/security_tasks_1.dita" class="- map/topicref " xtrc="topicref:170;212:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/security_tasks_2.dita" class="- map/topicref " xtrc="topicref:171;213:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/security_tasks_3.dita" class="- map/topicref " xtrc="topicref:172;214:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/business_tasks.dita" class="- map/topicref " xtrc="topicref:173;216:53" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/business_tasks_list.dita" class="- map/topicref " xtrc="topicref:174;217:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/business_tasks_1.dita" class="- map/topicref " xtrc="topicref:175;218:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/business_tasks_2.dita" class="- map/topicref " xtrc="topicref:176;219:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/business_tasks_3.dita" class="- map/topicref " xtrc="topicref:177;220:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/comunication_tasks.dita" class="- map/topicref " xtrc="topicref:178;222:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/comunication_tasks_list.dita" class="- map/topicref " xtrc="topicref:179;223:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/comunication_tasks_1.dita" class="- map/topicref " xtrc="topicref:180;224:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/comunication_tasks_2.dita" class="- map/topicref " xtrc="topicref:181;225:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/comunication_tasks_3.dita" class="- map/topicref " xtrc="topicref:182;226:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/report_and_analysys_tasks.dita" class="- map/topicref " xtrc="topicref:183;228:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/report_and_analysys_tasks_list.dita" class="- map/topicref " xtrc="topicref:184;229:74" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/report_and_analysys_tasks_1.dita" class="- map/topicref " xtrc="topicref:185;230:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/report_and_analysys_tasks_2.dita" class="- map/topicref " xtrc="topicref:186;231:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/report_and_analysys_tasks_3.dita" class="- map/topicref " xtrc="topicref:187;232:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/management_tasks.dita" class="- map/topicref " xtrc="topicref:188;234:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/management_tasks_list.dita" class="- map/topicref " xtrc="topicref:189;235:65" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/management_tasks_1.dita" class="- map/topicref " xtrc="topicref:190;236:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/management_tasks_2.dita" class="- map/topicref " xtrc="topicref:191;237:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/management_tasks_3.dita" class="- map/topicref " xtrc="topicref:192;238:62" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dbos_maintenance_tasks.dita" class="- map/topicref " xtrc="topicref:193;240:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dbos_maintenance_tasks_list.dita" class="- map/topicref " xtrc="topicref:194;241:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbos_maintenance_tasks_1.dita" class="- map/topicref " xtrc="topicref:195;242:68" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbos_maintenance_tasks_2.dita" class="- map/topicref " xtrc="topicref:196;243:68" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbos_maintenance_tasks_3.dita" class="- map/topicref " xtrc="topicref:197;244:68" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/functions_or_steps.dita" class="- map/topicref " audience="Solution_Architect Backend_Developer Frontend_Developer" xtrc="topicref:198;248:76" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/function_types.dita" class="- map/topicref " xtrc="topicref:199;249:54" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/functions_or_steps_list.dita" class="- map/topicref " xtrc="topicref:200;250:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/admin_operation_functions.dita" class="- map/topicref " xtrc="topicref:201;251:64" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/aof_list.dita" class="- map/topicref " xtrc="topicref:202;252:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/aof_1.dita" class="- map/topicref " xtrc="topicref:203;253:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/aof_2.dita" class="- map/topicref " xtrc="topicref:204;254:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/aof_3.dita" class="- map/topicref " xtrc="topicref:205;255:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/security_operation_functions.dita" class="- map/topicref " xtrc="topicref:206;257:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/sof_list.dita" class="- map/topicref " xtrc="topicref:207;258:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/sof_1.dita" class="- map/topicref " xtrc="topicref:208;259:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/sof_2.dita" class="- map/topicref " xtrc="topicref:209;260:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/sof_3.dita" class="- map/topicref " xtrc="topicref:210;261:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/business_operation_functions.dita" class="- map/topicref " xtrc="topicref:211;263:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/bof_list.dita" class="- map/topicref " xtrc="topicref:212;264:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bof_1.dita" class="- map/topicref " xtrc="topicref:213;265:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bof_2.dita" class="- map/topicref " xtrc="topicref:214;266:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/bof_3.dita" class="- map/topicref " xtrc="topicref:215;267:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/comunication_operation_functions.dita" class="- map/topicref " xtrc="topicref:216;269:71" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/cof_lisr.dita" class="- map/topicref " xtrc="topicref:217;270:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/cof_1.dita" class="- map/topicref " xtrc="topicref:218;271:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/cof_2.dita" class="- map/topicref " xtrc="topicref:219;272:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/cof_3.dita" class="- map/topicref " xtrc="topicref:220;273:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/report_and_analysys_operation_functions.dita" class="- map/topicref " xtrc="topicref:221;275:78" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/raof_list.dita" class="- map/topicref " xtrc="topicref:222;276:53" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/raof_1.dita" class="- map/topicref " xtrc="topicref:223;277:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/raof_2.dita" class="- map/topicref " xtrc="topicref:224;278:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/raof_3.dita" class="- map/topicref " xtrc="topicref:225;279:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/management_operation_functions.dita" class="- map/topicref " xtrc="topicref:226;281:69" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/mof_list.dita" class="- map/topicref " xtrc="topicref:227;282:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/mof_1.dita" class="- map/topicref " xtrc="topicref:228;283:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/mof_2.dita" class="- map/topicref " xtrc="topicref:229;284:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/mof_3.dita" class="- map/topicref " xtrc="topicref:230;285:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dbos_maintenance_operation_functions.dita" class="- map/topicref " xtrc="topicref:231;287:75" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dbos_mof_list.dita" class="- map/topicref " xtrc="topicref:232;288:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbos_mof_1.dita" class="- map/topicref " xtrc="topicref:233;289:54" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbos_mof_2.dita" class="- map/topicref " xtrc="topicref:234;290:54" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbos_mof_3.dita" class="- map/topicref " xtrc="topicref:235;291:54" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+    </topicref>
+    <topicref href="topics/data_and_dto_access_levels.dita" class="- map/topicref " audience="Solution_Architect API_Developer Backend_Developer Frontend_Developer" xtrc="topicref:236;295:90" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/low_access_level.dita" class="- map/topicref " xtrc="topicref:237;296:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/middle_access_level.dita" class="- map/topicref " xtrc="topicref:238;297:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/high_access_level.dita" class="- map/topicref " xtrc="topicref:239;298:57" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+    </topicref>
+    <topicref href="topics/dto_sources.dita" class="- map/topicref " audience="Solution_Architect API_Developer Backend_Developer Frontend_Developer" xtrc="topicref:240;301:90" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+        <topicref href="topics/dto_types.dita" class="- map/topicref " xtrc="topicref:241;302:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/untitled2.dita" class="- map/topicref " xtrc="topicref:242;303:49" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        <topicref href="topics/dto_for_admin_dbos_functions.dita" class="- map/topicref " xtrc="topicref:243;304:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dto_admin_list.dita" class="- map/topicref " xtrc="topicref:244;305:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_admin_1.dita" class="- map/topicref " xtrc="topicref:245;306:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_admin_2.dita" class="- map/topicref " xtrc="topicref:246;307:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_admin_3.dita" class="- map/topicref " xtrc="topicref:247;308:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_security_functions.dita" class="- map/topicref " xtrc="topicref:248;310:65" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dto_security_list.dita" class="- map/topicref " xtrc="topicref:249;311:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_security_1.dita" class="- map/topicref " xtrc="topicref:250;312:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_security_2.dita" class="- map/topicref " xtrc="topicref:251;313:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_security_3.dita" class="- map/topicref " xtrc="topicref:252;314:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_business_functions.dita" class="- map/topicref " xtrc="topicref:253;316:65" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dto_business_list.dita" class="- map/topicref " xtrc="topicref:254;317:61" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_business_1.dita" class="- map/topicref " xtrc="topicref:255;318:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_business_2.dita" class="- map/topicref " xtrc="topicref:256;319:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_business_3.dita" class="- map/topicref " xtrc="topicref:257;320:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_communication_functions.dita" class="- map/topicref " xtrc="topicref:258;322:70" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dto_communication_list.dita" class="- map/topicref " xtrc="topicref:259;323:66" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_communication_1.dita" class="- map/topicref " xtrc="topicref:260;324:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_communication_2.dita" class="- map/topicref " xtrc="topicref:261;325:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_communication_3.dita" class="- map/topicref " xtrc="topicref:262;326:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_report_and_analysys_functions.dita" class="- map/topicref " xtrc="topicref:263;328:76" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dto_report_list.dita" class="- map/topicref " xtrc="topicref:264;329:59" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_report_1.dita" class="- map/topicref " xtrc="topicref:265;330:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_report_2.dita" class="- map/topicref " xtrc="topicref:266;331:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_report_3.dita" class="- map/topicref " xtrc="topicref:267;332:56" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_dbos_maintenance_functions.dita" class="- map/topicref " xtrc="topicref:268;334:73" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dbo_maint_list.dita" class="- map/topicref " xtrc="topicref:269;335:58" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbo_maint_1.dita" class="- map/topicref " xtrc="topicref:270;336:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbo_maint_2.dita" class="- map/topicref " xtrc="topicref:271;337:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dbo_maint_3.dita" class="- map/topicref " xtrc="topicref:272;338:55" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+        <topicref href="topics/dto_for_management_functions.dita" class="- map/topicref " xtrc="topicref:273;340:67" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap">
+            <topicref href="topics/dto_management_list.dita" class="- map/topicref " xtrc="topicref:274;341:63" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_management_1.dita" class="- map/topicref " xtrc="topicref:275;342:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_management_2.dita" class="- map/topicref " xtrc="topicref:276;343:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+            <topicref href="topics/dto_management_3.dita" class="- map/topicref " xtrc="topicref:277;344:60" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"/>
+        </topicref>
+    </topicref>
+    
+    <submap class="+ map/topicref mapgroup-d/topicgroup ditaot-d/submap " dita-ot:orig-class="- map/topicref " dita-ot:orig-format="ditamap" dita-ot:orig-href="subject_scheme_enterprise_roles.ditamap" dita-ot:submap-DITAArchVersion="1.3" dita-ot:submap-cascade="merge" dita-ot:submap-class="- map/map subjectScheme/subjectScheme " dita-ot:submap-domains="(map mapgroup-d) (map subjectScheme) a(props deliveryTarget) (topic hazard-d) (topic hi-d) (topic ut-d)" dita-ot:submap-processing-role="resource-only" dita-ot:submap-specializations="@props/deliveryTarget" dita-ot:submap-toc="no" dita-ot:submap-xtrc="subjectScheme:1;3:16" dita-ot:submap-xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap" xtrc="topicref:302;378:80" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/project.ditamap"><subjectHead class="- map/topicref subjectScheme/subjectHead " linking="normal" toc="no" processing-role="resource-only" xtrc="subjectHead:1;4:18" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+        <subjectHeadMeta class="- map/topicmeta subjectScheme/subjectHeadMeta " xtrc="subjectHeadMeta:1;5:26" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+            <navtitle class="- topic/navtitle " xtrc="navtitle:1;6:23" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+                
+            </navtitle>
+        </subjectHeadMeta>
+    </subjectHead><hasInstance class="- map/topicref subjectScheme/hasInstance " toc="no" processing-role="resource-only" xtrc="hasInstance:1;11:18" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="enterpriseRolesKey" xtrc="subjectdef:1;12:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+            
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Solution_Architect" xtrc="subjectdef:2;14:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="API_Developer" xtrc="subjectdef:3;15:47" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Backend_Developer" xtrc="subjectdef:4;16:51" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+            <subjectdef class="- map/topicref subjectScheme/subjectdef " keys="Frontend_Developer" xtrc="subjectdef:5;17:52" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+        </subjectdef>
+    </hasInstance><enumerationdef class="- map/topicref subjectScheme/enumerationdef " toc="no" processing-role="resource-only" xtrc="enumerationdef:1;20:21" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap">
+        
+        <attributedef class="- topic/data subjectScheme/attributedef " name="audience" translate="no" xtrc="attributedef:1;22:40" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+        <subjectdef class="- map/topicref subjectScheme/subjectdef " keyref="enterpriseRolesKey" xtrc="subjectdef:6;23:50" xtrf="file:/C:/digital_banking_concept/fin.shap.docu.concept/subject_scheme_enterprise_roles.ditamap"/>
+    </enumerationdef></submap>
+</map>
