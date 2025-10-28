@@ -7,7 +7,7 @@
         <p>Data Persistent ID (unique ID within manufacturer domain): </p>
         <p>Data Life Cycle Status (enumeration of ): </p>
         <p>Data has Access Level (enumeration of ): <xref href="middle_access_level.dita"/></p>
-        <p>Data has type (enumeration of getter or setter): setter </p>
+        <p>Data has type (enumeration of getter or setter): setter</p>
         <p>Data coming from what source (enumeration of sources): <xref href="component_1.dita"
             /></p>
         <p>Data is a part of  DTO (enumeration of DTO): <ul id="ul_dnd_hx5_zgc">
