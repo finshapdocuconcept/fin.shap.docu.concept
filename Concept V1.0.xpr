@@ -14473,7 +14473,7 @@ self::*[contains(@class," map/reltable ")]][1]
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DITA Map WebHelp Responsive - Frontend Developer</String>
+                                        <String>Project to WebHelp Responsive</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
