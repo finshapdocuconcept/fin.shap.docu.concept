@@ -2,7 +2,18 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="untitled10">
     <title>Task types</title>
+    <shortdesc><i>Task types were defined to ease understanding their business nature. From the
+            business point of view we may divide all possible tasks into separate domains:
+            Functional Tasks and Product tasks. Tasks are divided into types within each domain and
+            may be divided into subtypes.</i>
+    </shortdesc>
     <body>
+        <p>Functional Tasks domain comprises all banking tasks, that bank employees and their
+            clients handle using DB Solution software. Moreover this domain comprises all tasks that
+            have to be done to install and maintenance DB Solution software. Functional domain tasks
+            are divided into seven types, each task type may have subtypes. Example, Functional
+            tasks/Business tasks/Payment tasks/... </p>
+        <p>Functional tasks: </p>
         <p>
             <dl id="dl_ckp_ffb_1hc">
                 <dlentry>
@@ -51,5 +62,33 @@
                     like: version updating, scaling, running backups, performing health checks. </dd>
             </dlentry>
         </dl>
+        <p>Product Tasks domain comprises all tasks that enterprise handle to design, produce, sale,
+            deliver and putting its products to use. Product domain tasks are divided into four
+            types. Product task types are associated with enterprise processes. Each task type may
+            have subtypes. </p>
+        <p>Product tasks: <dl id="dl_uqy_vk5_2hc">
+                <dlentry>
+                    <dt>Onboarding tasks </dt>
+                    <dd>Tasks that have to do with company's employees onboarding processes. These
+                        processes will be different, based on the specific employee's role. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Sales tasks </dt>
+                    <dd>Tasks that are being held by the Sales department. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Project implementation tasks </dt>
+                    <dd>Tasks from different stages of project implementation process.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt><b>Client support tasks</b>
+                    </dt>
+                    <dd>
+                        <p>Specific tasks to provide a customer with support regarding their DB
+                            solution. </p>
+                        <p> </p>
+                    </dd>
+                </dlentry>
+            </dl></p>
     </body>
 </topic>

@@ -14461,10 +14461,6 @@ self::*[contains(@class," map/reltable ")]][1]
                         <Boolean>true</Boolean>
                     </entry>
                     <entry>
-                        <String>keys.context</String>
-                        <String>${pdu}/project.ditamap</String>
-                    </entry>
-                    <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
