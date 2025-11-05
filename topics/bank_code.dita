@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="bank_code">
+    <title>Bank code</title>
+    <shortdesc>UI control where you select a bank code </shortdesc>
+    <conbody>
+        <p>
+            <fig id="fig_rd2_j5d_fhc">
+                <title>Bank code</title>
+                <image placement="break" href="../images/bank_code.jpeg" id="image_sd2_j5d_fhc"/>
+            </fig>
+        </p>
+        <p>
+            <table>
+                <title>UI control: parameters </title>
+                <tgroup cols="5" align="-dita-use-conref-target">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <thead>
+                        <row>
+                            <entry>PID</entry>
+                            <entry> Title</entry>
+                            <entry>Type</entry>
+                            <entry>Has DTO</entry>
+                            <entry>Is a part of a Task page </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>205</entry>
+                            <entry><xref href="bank_code.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry><xref href="dto_business_1.dita"/></entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

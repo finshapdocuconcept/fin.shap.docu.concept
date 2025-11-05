@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="to_foreign_country">
+    <title>To foreign country</title>
+    <shortdesc>UI control defining geolocation where money will be sent </shortdesc>
+    <conbody>
+        <p>
+            <fig id="fig_vdh_ptd_fhc">
+                <title>To foreign country</title>
+                <image placement="break" href="../images/to_foreign_count.jpeg"
+                    id="image_wdh_ptd_fhc"/>
+                <p>
+                    <table>
+                        <title>UI control: parameters </title>
+                        <tgroup cols="5" align="-dita-use-conref-target">
+                            <colspec colnum="1" colname="c1"/>
+                            <colspec colnum="2" colname="c2"/>
+                            <colspec colnum="3" colname="c3"/>
+                            <colspec colnum="4" colname="c4"/>
+                            <colspec colnum="5" colname="c5"/>
+                            <thead>
+                                <row>
+                                    <entry>PID</entry>
+                                    <entry> Title</entry>
+                                    <entry>Type</entry>
+                                    <entry>Has DTO</entry>
+                                    <entry>Is a part of a Task page </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>202</entry>
+                                    <entry><xref href="to_foreign_country.dita"/></entry>
+                                    <entry>getter</entry>
+                                    <entry><xref href="dto_business_1.dita"/></entry>
+                                    <entry><xref href="new_payment_page.dita"/></entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+            </fig>
+        </p>
+    </conbody>
+</concept>

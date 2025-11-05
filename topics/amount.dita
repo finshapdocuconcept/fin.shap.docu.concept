@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="amount">
+    <title>Amount</title>
+    <shortdesc>UI control where you enter a money amount </shortdesc>
+    <conbody>
+        <p>
+            <fig id="fig_ips_n5d_fhc">
+                <title>Amount</title>
+                <image placement="break" href="../images/amount.jpeg" id="image_jps_n5d_fhc"/>
+            </fig>
+        </p>
+        <table>
+            <title>UI control: parameters </title>
+            <tgroup cols="5" align="-dita-use-conref-target">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <colspec colnum="4" colname="c4"/>
+                <colspec colnum="5" colname="c5"/>
+                <thead>
+                    <row>
+                        <entry>PID</entry>
+                        <entry> Title</entry>
+                        <entry>Type</entry>
+                        <entry>Has DTO</entry>
+                        <entry>Is a part of a Task page </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>206</entry>
+                        <entry><xref href="amount.dita"/></entry>
+                        <entry>setter </entry>
+                        <entry><xref href="dto_business_1.dita"/></entry>
+                        <entry><xref href="new_payment_page.dita"/></entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

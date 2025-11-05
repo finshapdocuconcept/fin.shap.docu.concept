@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="bank_s_employee_app_ui">
-    <title>Bank's Employee App UI</title>
+    <title>Bank's Employee App UI </title>
     <body>
+        <p>The Bank's Employee App UI (WAC - Web Admin Console) is a web application for bank
+            operators and employees, providing tools to manage data in DBOS components - such as
+            client and operator settings, bank messages, and system configurations - and to interact
+            with external systems when needed.</p>
         <p></p>
     </body>
 </topic>

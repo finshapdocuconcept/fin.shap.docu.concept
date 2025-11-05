@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="business_tasks_1">
-    <title>Business Tasks 1</title>
+    <title>New Payment </title>
+    <shortdesc>This page describes all of the relevant parameters for the New Payment task. </shortdesc>
     <body>
-        <p></p>
+        <p>Broader Context: New Payment refers the category Payment Tasks. It is a simple money
+            transaction. </p>
+        <p><b>Task PID</b>: Task's persistent identifier (unique number). </p>
+        <p><b>Task type </b>: Task type is enumeration of domain_title/task_type/task_subtype. </p>
+        <p><b>Is a part of Roles </b>(relationship type): what bank's employees or private roles
+            this task is targeting at. </p>
+        <p><b>Is handled within workspace</b> : this task corresponds to which department in terms
+            of the end-user. Links to related Workspaces should be included. </p>
+        <p><b>Task handling UI pages</b> : what specific UI pages correspond to this Task. </p>
+        <p><b>Consists of steps</b> (relationship type): <ul id="ul_dtx_prd_fhc">
+                <li/>
+                <li/>
+                <li/>
+            </ul></p>
+        <p><b>Refers to </b>(relationship type): Each task refers to a specific workspace or several
+            workspaces. And accordingly, can be performed within a specific widget type. This type
+            of relationship has to be clarified in the table . </p>
+        <p><b>Is affecting what</b> (relation type): Task may affect some other tasks, steps, or
+            processes after it is performed. For example, if you delete a user, then it may require
+            an update elsewhere. This type of affection has to clarified in the table. </p>
     </body>
 </topic>

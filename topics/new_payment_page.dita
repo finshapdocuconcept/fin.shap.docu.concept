@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="new_payment_page">
+    <title>New payment page </title>
+    <shortdesc>This section serves for front-end and low-code developers. It provides with all
+        necessary information that is needed to create a screen for the New Payment task. For web,
+        IOS and Android. </shortdesc>
+    <conbody>
+        <p>
+            <fig id="fig_w3d_fmb_fhc">
+                <title>New Payment for web app</title>
+                <image placement="break" href="../images/payment_web.png" id="image_x3d_fmb_fhc"/>
+                <p>
+                    <table>
+                        <title>New Payment page: parameters </title>
+                        <tgroup cols="5" align="-dita-use-conref-target">
+                            <colspec colnum="1" colname="c1"/>
+                            <colspec colnum="2" colname="c2"/>
+                            <colspec colnum="3" colname="c3"/>
+                            <colspec colnum="4" colname="c4"/>
+                            <colspec colnum="5" colname="c5"/>
+                            <thead>
+                                <row>
+                                    <entry>PID</entry>
+                                    <entry> Title</entry>
+                                    <entry>Ia a part of Workspace </entry>
+                                    <entry>Consists of what UI controls </entry>
+                                    <entry>Refers to what Steps </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>001</entry>
+                                    <entry><xref href="new_payment_page.dita"/></entry>
+                                    <entry><xref href="workspace_for_private_client.dita"/></entry>
+                                    <entry><xref href="to_czech_republic.dita"/></entry>
+                                    <entry><xref href="step_to_czech_republic.dita"/></entry>
+                                </row>
+                                <row>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry><xref href="to_foreign_country.dita"/></entry>
+                                    <entry><xref href="step_to_foreign_country.dita"/></entry>
+                                </row>
+                                <row>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry><xref href="recipient.dita"/></entry>
+                                    <entry><xref href="step_recipient.dita"/></entry>
+                                </row>
+                                <row>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry><xref href="account_number.dita"/></entry>
+                                    <entry><xref href="step_account_number.dita"/></entry>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+            </fig>
+        </p>
+    </conbody>
+</concept>

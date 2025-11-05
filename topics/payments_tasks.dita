@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="payments_tasks">
+    <title>Payments Tasks </title>
+    <shortdesc>this page provides you with a lists of all tasks that refer to a category Payment
+        Tasks. It shows task's key dependencies. </shortdesc>
+    <conbody>
+        <p>
+            <table>
+                <title>Payments tasks table </title>
+                <tgroup cols="5" align="-dita-use-conref-target">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <thead>
+                        <row>
+                            <entry>PID</entry>
+                            <entry> Title</entry>
+                            <entry>Ia a part of which Domain  </entry>
+                            <entry>Type </entry>
+                            <entry>Refers to what Roles </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>301 </entry>
+                            <entry><xref href="business_tasks_1.dita"/></entry>
+                            <entry><xref href="functional_domain_tasks.dita"/></entry>
+                            <entry><xref href="business_tasks.dita"/></entry>
+                            <entry><xref href="bank_s_privat_client.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>302</entry>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>303</entry>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                        <row>
+                            <entry>304</entry>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                            <entry/>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

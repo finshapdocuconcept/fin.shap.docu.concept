@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="workspace_for_private_client">
+    <title>Workspace for private client </title>
+    <shortdesc>This section serves for front-end and low-code developers. It provides with all
+        necessary information that is needed to align specific UI elements with an appropriate
+        workspace</shortdesc>
+    <conbody>
+        <p>
+            <fig id="fig_y5k_bmb_fhc">
+                <title>Private Client's Workspace</title>
+                <image placement="break" href="../images/private_client_workspace.jpeg"
+                    id="image_z5k_bmb_fhc"/>
+                <p>
+                    <table>
+                        <title>Workspace: parameters </title>
+                        <tgroup cols="5" align="-dita-use-conref-target">
+                            <colspec colnum="1" colname="c1"/>
+                            <colspec colnum="2" colname="c2"/>
+                            <colspec colnum="3" colname="c3"/>
+                            <colspec colnum="4" colname="c4"/>
+                            <colspec colnum="5" colname="c5"/>
+                            <thead>
+                                <row>
+                                    <entry>PID</entry>
+                                    <entry> Title</entry>
+                                    <entry>Ia a part of which Application </entry>
+                                    <entry>Consists of what Task pages</entry>
+                                    <entry>Refers to what Roles </entry>
+                                </row>
+                            </thead>
+                            <tbody>
+                                <row>
+                                    <entry>101</entry>
+                                    <entry><xref href="workspace_for_private_client.dita"/></entry>
+                                    <entry><xref href="applications_module.dita"/></entry>
+                                    <entry><xref href="new_payment_page.dita"/></entry>
+                                    <entry><xref href="bank_s_privat_client.dita"/></entry>
+                                </row>
+                                <row>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                </row>
+                                <row>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                </row>
+                                <row>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                    <entry/>
+                                </row>
+                            </tbody>
+                        </tgroup>
+                    </table>
+                </p>
+            </fig>
+        </p>
+    </conbody>
+</concept>

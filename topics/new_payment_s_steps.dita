@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="new_payment_s_steps">
+    <title>New payment's UI controls </title>
+    <shortdesc>This section serves for front-end and low-code developers to enable them working with
+        separate UI controls for the New Payment page. </shortdesc>
+    <conbody>
+        <p>Each UI control is depicted and described in terms of its role within the UI page,
+            expected behaviour, impact on other UI controls, appropriate DTO (data transfer object)
+            to connect it with, and other essential properties to work with. </p>
+        <p>
+            <table>
+                <title>UI controls: parameters </title>
+                <tgroup cols="5" align="-dita-use-conref-target">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <colspec colnum="5" colname="c5"/>
+                    <thead>
+                        <row>
+                            <entry>PID</entry>
+                            <entry> Title</entry>
+                            <entry>Type</entry>
+                            <entry>Has DTO</entry>
+                            <entry>Is a part of a Task page </entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>201</entry>
+                            <entry><xref href="to_czech_republic.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry><xref href="dto_business_1.dita"/></entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>202</entry>
+                            <entry><xref href="to_foreign_country.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry><xref href="dto_business_1.dita"/></entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>203</entry>
+                            <entry><xref href="recipient.dita"/></entry>
+                            <entry>setter </entry>
+                            <entry><xref href="dto_admin_1.dita"/></entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>204</entry>
+                            <entry><xref href="account_number.dita"/></entry>
+                            <entry>setter </entry>
+                            <entry><xref href="dto_business_1.dita"/></entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>205</entry>
+                            <entry><xref href="bank_code.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry>––––-</entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>206</entry>
+                            <entry><xref href="amount.dita"/></entry>
+                            <entry>setter</entry>
+                            <entry>––––-</entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>207</entry>
+                            <entry><xref href="currency.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry>––––-</entry>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>208</entry>
+                            <entry><xref href="future_balance.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>209</entry>
+                            <entry><xref href="variable_symbol.dita"/></entry>
+                            <entry>setter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>210</entry>
+                            <entry><xref href="constant_symbol.dita"/></entry>
+                            <entry>setter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>211</entry>
+                            <entry><xref href="specific_symbol.dita"/></entry>
+                            <entry>setter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>212</entry>
+                            <entry><xref href="note_to_sender.dita"/></entry>
+                            <entry>setter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>213</entry>
+                            <entry><xref href="email_confirmation.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>214</entry>
+                            <entry><xref href="transfer_date.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>215</entry>
+                            <entry><xref href="save_new.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>216</entry>
+                            <entry><xref href="sign_request.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>217</entry>
+                            <entry><xref href="continue.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>218</entry>
+                            <entry><xref href="new_request_to_confirm.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>219</entry>
+                            <entry><xref href="confirm_payment.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>220</entry>
+                            <entry><xref href="ok_notification.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>221</entry>
+                            <entry><xref href="view_order_list.dita"/></entry>
+                            <entry>getter</entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                        <row>
+                            <entry>222</entry>
+                            <entry><xref href="done.dita"/></entry>
+                            <entry>getter </entry>
+                            <entry/>
+                            <entry><xref href="new_payment_page.dita"/></entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>
