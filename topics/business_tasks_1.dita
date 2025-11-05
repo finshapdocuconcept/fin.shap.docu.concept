@@ -6,17 +6,16 @@
     <body>
         <p>Broader Context: New Payment refers the category Payment Tasks. It is a simple money
             transaction. </p>
-        <p><b>Task PID</b>: Task's persistent identifier (unique number). </p>
-        <p><b>Task type </b>: Task type is enumeration of domain_title/task_type/task_subtype. </p>
-        <p><b>Is a part of Roles </b>(relationship type): what bank's employees or private roles
-            this task is targeting at. </p>
-        <p><b>Is handled within workspace</b> : this task corresponds to which department in terms
-            of the end-user. Links to related Workspaces should be included. </p>
-        <p><b>Task handling UI pages</b> : what specific UI pages correspond to this Task. </p>
+        <p><b>Task PID</b>: 001</p>
+        <p><b>Task type </b>: <xref href="business_tasks.dita"/></p>
+        <p><b>Is a part of Roles </b>(relationship type): <xref href="bank_s_privat_client.dita"
+            /></p>
+        <p><b>Is handled within workspace</b> : <xref href="workspace_for_private_client.dita"/></p>
+        <p><b>Task handling UI pages</b> : <xref href="new_payment_page.dita"/></p>
         <p><b>Consists of steps</b> (relationship type): <ul id="ul_dtx_prd_fhc">
-                <li/>
-                <li/>
-                <li/>
+                <li><xref href="step_to_czech_republic.dita"/></li>
+                <li><xref href="step_to_foreign_country.dita"/></li>
+                <li><xref href="step_recipient.dita"/></li>
             </ul></p>
         <p><b>Refers to </b>(relationship type): Each task refers to a specific workspace or several
             workspaces. And accordingly, can be performed within a specific widget type. This type
