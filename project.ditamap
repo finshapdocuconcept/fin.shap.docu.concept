@@ -22,6 +22,8 @@
                 <topicref href="topics/feature_component_1.dita"/>
                 <topicref href="topics/feature_component_2.dita"/>
                 <topicref href="topics/feature_component_3.dita"/>
+                <topicref href="topics/entitlements_gen.dita"/>
+                <topicref href="topics/instant_data_gds.dita"/>
             </topicref>
             <topicref href="topics/applications_module.dita">
                 <topicref href="topics/app_component_1.dita"/>

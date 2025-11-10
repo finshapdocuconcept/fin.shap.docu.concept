@@ -19,9 +19,9 @@
             </ul></p>
         <p><b>Refers to </b>(relationship type): Each task refers to a specific workspace or several
             workspaces. And accordingly, can be performed within a specific widget type. This type
-            of relationship has to be clarified in the table . </p>
+            of relationship has to be clarified in the table </p>
         <p><b>Is affecting what</b> (relation type): Task may affect some other tasks, steps, or
             processes after it is performed. For example, if you delete a user, then it may require
-            an update elsewhere. This type of affection has to clarified in the table. </p>
+            an update elsewhere. This type of affection has to clarified in the table</p>
     </body>
 </topic>
