@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>Digital Banking Concept</title>
+    <title>Finshape Knowledge Base </title>
     <topicref href="topics/digital_banking_main_solution.dita" audience="Solution_Architect">
         <topicref href="topics/db_modules.dita">
             <topicref href="topics/infrastructure_module.dita">
